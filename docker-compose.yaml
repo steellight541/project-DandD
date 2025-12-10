@@ -1,0 +1,17 @@
+services:
+  ragify:
+    container_name: ragify
+    build:
+      context: .
+      dockerfile: ragify.Dockerfile
+    gpus: all
+    environment:
+      - EMBEDDED_OLLAMA_MODEL=mxbai-embed-large
+      - batch_size=512
+      - embed_batch_size=64
+      - embedding_dim=1024
+    volumes:
+      - ./DandD:/DandD
+      - ./logs:/logs
+      # - ./src/rule_handler:/app 
+

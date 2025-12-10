@@ -1,0 +1,105 @@
+You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.
+ 
+ When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.
+ 
+ A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
+ 
+ #### Warding Bond
+ 
+ *2nd-level abjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)
+ 
+ **Duration:** 1 hour
+ 
+ This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
+ 
+ The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
+ 
+ #### Water Breathing
+ 
+ *3rd-level transmutation (ritual)*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a short reed or piece of straw)
+ 
+ **Duration:** 24 hours
+ 
+ This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
+ 
+ #### Water Walk
+ 
+ *3rd-level transmutation (ritual)*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a piece of cork)
+ 
+ **Duration:** 1 hour
+ 
+ This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.
+ 
+ If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
+ 
+ #### Web
+ 
+ *2nd-level conjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V, S, M (a bit of spiderweb)
+ 
+ **Duration:** Concentration, up to 1 hour
+ 
+ You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20- foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
+ 
+ If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
+ 
+ Each creature that starts its turn in the webs or that enters them during its turn must make a
+ 
+ Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.
+ 
+ A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
+ 
+ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire.
+ 
+ #### Weird
+ 
+ *9th-level illusion*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 120 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Concentration, up to one minute
+ 
+ Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature’s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature’s turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.
+ 
+ #### Wind Walk
+ 
+ *6th-level transmutation*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (fire and holy water)
+
+
+---
+

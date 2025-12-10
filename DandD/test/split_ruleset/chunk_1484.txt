@@ -1,0 +1,105 @@
+### Perfect Self
+ 
+ At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+ 
+ Monastic Traditions
+ -------------------
+ 
+ Three traditions of monastic pursuit are common in the monasteries scattered across the multiverse. Most monasteries practice one tradition exclusively, but a few honor the three traditions and instruct each monk according to his or her aptitude and interest. All three traditions rely on the same basic techniques, diverging as the student grows more adept. Thus, a monk need choose a tradition only upon reaching 3rd level.
+ 
+ ### Way of the Open Hand
+ 
+ Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
+ 
+ #### Open Hand Technique
+ 
+ Starting when you choose this tradition at 3rd level, you can manipulate your enemy’s ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
+ - It must succeed on a Dexterity saving throw or be knocked prone.
+ - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
+ - It can’t take reactions until the end of your next turn.
+ 
+ #### Wholeness of Body
+ 
+ At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again.
+ 
+ #### Tranquility
+ 
+ Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+ 
+ #### Quivering Palm
+ 
+ At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
+ 
+ You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
+ 
+ Paladin
+ =======
+ 
+ Class Features
+ --------------
+ 
+ As a paladin, you gain the following class features.
+ 
+ #### Hit Points
+ 
+ **Hit Dice:** 1d10 per paladin level
+ 
+ **Hit Points at 1st Level:** 10 + your Constitution modifier
+ 
+ **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per paladin level after 1st
+ 
+ #### Proficiencies
+ 
+ **Armor:** All armor, shields
+ 
+ **Weapons:** Simple weapons, martial weapons
+ 
+ **Tools:** None
+ 
+ **Saving Throws:** Wisdom, Charisma
+ 
+ **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+ 
+ #### Equipment
+ 
+ You start with the following equipment, in addition to the equipment granted by your background:
+ - (*a*) a martial weapon and a shield or (*b*) two martial weapons
+ - (*a*) five javelins or (*b*) any simple melee weapon
+ - (*a*) a priest’s pack or (*b*) an explorer’s pack
+ - Chain mail and a holy symbol
+ 
+ #### The Paladin
+ 
+ | Level | Proficiency Bonus | Features                                   | 1st | 2nd | 3rd | 4th | 5th |
+ |-------|-------------------|--------------------------------------------|-----|-----|-----|-----|-----|
+ | 1st   | +2                | Divine Sense, Lay on Hands                 | -   | -   | -   | -   | -   |
+ | 2nd   | +2                | Fighting Style, Spellcasting, Divine Smite | 2   | -   | -   | -   | -   |
+ | 3rd   | +2                | Divine Health, Sacred Oath                 | 3   | -   | -   | -   | -   |
+ | 4th   | +2                | Ability Score Improvement                  | 3   | -   | -   | -   | -   |
+ | 5th   | +3                | Extra Attack                               | 4   | 2   | -   | -   | -   |
+ | 6th   | +3                | Aura of Protection                         | 4   | 2   | -   | -   | -   |
+ | 7th   | +3                | Sacred Oath feature                        | 4   | 3   | -   | -   | -   |
+ | 8th   | +3                | Ability Score Improvement                  | 4   | 3   | -   | -   | -   |
+ | 9th   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
+ | 10th  | +4                | Aura of Courage                            | 4   | 3   | 2   | -   | -   |
+ | 11th  | +4                | Improved Divine Smite                      | 4   | 3   | 3   | -   | -   |
+ | 12th  | +4                | Ability Score Improvement                  | 4   | 3   | 3   | -   | -   |
+ | 13th  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
+ | 14th  | +5                | Cleansing Touch                            | 4   | 3   | 3   | 1   | -   |
+ | 15th  | +5                | Sacred Oath feature                        | 4   | 3   | 3   | 2   | -   |
+ | 16th  | +5                | Ability Score Improvement                  | 4   | 3   | 3   | 2   | -   |
+ | 17th  | +6                | -                                          | 4   | 3   | 3   | 3   | 1   |
+ | 18th  | +6                | Aura improvements                          | 4   | 3   | 3   | 3   | 1   |
+ | 19th  | +6                | Ability Score Improvement                  | 4   | 3   | 3   | 3   | 2   |
+ | 20th  | +6                | Sacred Oath feature                        | 4   | 3   | 3   | 3   | 2   |
+ 
+ ### Divine Sense
+ 
+ The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire
+ 
+ Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+ 
+
+
+---
+

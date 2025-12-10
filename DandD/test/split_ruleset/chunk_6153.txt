@@ -1,0 +1,105 @@
+
+ **Range:** 30 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** 1 hour
+ 
+ You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+ 
+ #### Chill Touch
+ 
+ *Necromancy cantrip*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 120 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** 1 round
+ 
+ You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can’t regain hit points until the start of your next turn. Until then, the hand clings to the target.
+ 
+ If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+ 
+ This spell’s damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+ 
+ #### Circle of Death
+ 
+ *6th-level necromancy*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 150 feet
+ 
+ **Components:** V, S, M (the powder of a crushed black pearl worth at least 500 gp)
+ 
+ **Duration:** Instantaneous
+ 
+ A sphere of negative energy ripples out in a 60-foot- radius sphere from a point within range. Each creature in that area must make a Constitution saving throw. A target takes 8d6 necrotic damage on a failed save, or half as much damage on a successful one.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
+ 
+ #### Clairvoyance
+ 
+ *3rd-level divination*
+ 
+ **Casting Time:** 10 minutes
+ 
+ **Range:** 1 mile
+ 
+ **Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can’t be attacked or otherwise interacted with.
+ 
+ When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
+ 
+ A creature that can see the sensor (such as a creature benefiting from *see invisibility* or truesight) sees a luminous, intangible orb about the size of your fist.
+ 
+ #### Clone
+ 
+ *8th-level necromancy*
+ 
+ **Casting Time:** 1 hour
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature, such as a huge urn, coffin, mud- filled cyst in the ground, or crystal container filled with salt water)
+ 
+ **Duration:** Instantaneous
+ 
+ This spell grows an inert duplicate of a living creature as a safeguard against death. This clone forms inside a sealed vessel and grows to full size and maturity after 120 days; you can also choose to have the clone be a younger version of the same creature. It remains inert and endures indefinitely, as long as its vessel remains undisturbed.
+ 
+ At any time after the clone matures, if the original creature dies, its soul transfers to the clone, provided that the soul is free and willing to return.
+ 
+ The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original’s equipment. The original creature’s physical remains, if they still exist, become inert and can’t thereafter be restored to life, since the creature’s soul is elsewhere.
+ 
+ #### Cloudkill
+ 
+ *5th-level conjuration*
+ 
+ **Casting Time:** 1 action **Range:** 120 feet **Components:** V, S
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
+ 
+ When a creature enters the spell’s area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don’t need to breathe.
+ 
+ The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+ 
+ #### Color Spray
+ 
+ *1st-level illusion*
+ 
+
+
+---
+

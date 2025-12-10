@@ -1,0 +1,105 @@
+***Courage.*** Affected creatures can’t be frightened while in the area.
+ 
+ ***Darkness.*** Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the slot you used to cast this spell, can’t illuminate the area.
+ 
+ ***Daylight.*** Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can’t extinguish the light.
+ 
+ ***Energy Protection.*** Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+ 
+ ***Energy Vulnerability.*** Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+ 
+ ***Everlasting Rest***. Dead bodies interred in the area can’t be turned into undead.
+ 
+ ***Extradimensional Interference.*** Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means.
+ 
+ ***Fear.*** Affected creatures are frightened while in the area.
+ 
+ ***Silence.*** No sound can emanate from within the area, and no sound can reach into it.
+ 
+ ***Tongues.*** Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
+ 
+ #### Hallucinatory Terrain
+ 
+ *4th-level illusion*
+ 
+ **Casting Time:** 10 minutes
+ 
+ **Range:** 300 feet
+ 
+ **Components:** V, S, M (a stone, a twig, and a bit of green plant)
+ 
+ **Duration:** 24 hours
+ 
+ You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
+ 
+ The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
+ 
+ #### Harm
+ 
+ *6th-level necromancy*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can’t reduce the target’s hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature’s hit point maximum to return to normal before that time passes.
+ 
+ #### Haste
+ 
+ *3rd-level transmutation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a shaving of licorice root)
+ 
+ **Duration:** Concentration, up to 1 minute
+ 
+ Choose a willing creature that you can see within range. Until the spell ends, the target’s speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+ 
+ When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it.
+ 
+ #### Heal
+ 
+ *6th-level evocation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+ 
+ #### Healing Word
+ 
+ *1st-level evocation*
+ 
+ **Casting Time:** 1 bonus action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V
+ 
+ **Duration:** Instantaneous
+ 
+ A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+ 
+ #### Heat Metal
+ 
+ *2nd-level transmutation*
+
+
+---
+

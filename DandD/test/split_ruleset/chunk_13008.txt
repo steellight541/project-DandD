@@ -1,0 +1,105 @@
+
+ *Weapon (any sword), very rare (requires attunement)*
+ 
+ You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+ 
+ The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+ 
+ #### Oathbow
+ 
+ *Weapon (longbow), very rare (requires attunement)*
+ 
+ When you nock an arrow on this bow, it whispers in Elvish, “Swift defeat to my enemies.” When you use this weapon to make a ranged attack, you can, as a command phrase, say, “Swift death to you who have wronged me.” The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+ 
+ When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll. In addition, your target gains no benefit from cover, other than total cover, and you suffer no disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3d6 piercing damage.
+ 
+ While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
+ 
+ #### Oil of Etherealness
+ 
+ *Potion, rare*
+ 
+ Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *etherealness* spell for 1 hour.
+ 
+ #### Oil of Sharpness
+ 
+ *Potion, very rare*
+ 
+ This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.
+ 
+ #### Oil of Slipperiness
+ 
+ *Potion, uncommon*
+ 
+ This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it’s wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a *freedom of movement* spell for 8 hours.
+ 
+ Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the *grease* spell in that area for 8 hours.
+ 
+ #### Pearl of Power
+ 
+ *Wondrous item, uncommon (requires attunement by a spellcaster)*
+ 
+ While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can’t be used again until the next dawn.
+ 
+ #### Periapt of Health
+ 
+ *Wondrous item, uncommon*
+ 
+ You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.
+ 
+ #### Periapt of Proof against Poison
+ 
+ *Wondrous item, rare*
+ 
+ This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+ 
+ #### Periapt of Wound Closure
+ 
+ *Wondrous item, uncommon (requires attunement)*
+ 
+ While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+ 
+ #### Philter of Love
+ 
+ *Potion, uncommon*
+ 
+ The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion’s rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
+ 
+ #### Pipes of Haunting
+ 
+ *Wondrous item, uncommon*
+ 
+ You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren’t hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn.
+ 
+ #### Pipes of the Sewers
+ 
+ *Wondrous item, uncommon (requires attunement)*
+ 
+ You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
+ 
+ The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren’t enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren’t under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
+ 
+ Whenever a swarm of rats that isn’t under another creature’s control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm’s Wisdom check. If you lose the contest, the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes’ music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can’t hear the pipes’ music, your control over that swarm ends, and the swarm behaves as it normally would and can’t be swayed by the pipes’ music for the next 24 hours.
+ 
+ #### Plate Armor of Etherealness
+ 
+ *Armor (plate), legendary (requires attunement)*
+ 
+ While you’re wearing this armor, you can speak its command word as an action to gain the effect of the *etherealness* spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can’t be used again until the next dawn.
+ 
+ #### Portable Hole
+ 
+ *Wondrous item, rare*
+ 
+ This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+ 
+ You can use an action to unfold a *portable hole* and place it on or against a solid surface, whereupon the *portable hole* creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can’t be used to create open passages. Any creature inside an open *portable hole* can exit the hole by climbing out of it.
+ 
+ You can use an action to close a *portable hole* by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what’s in it, the hole weighs next to nothing.
+ 
+ If the hole is folded up, a creature within the hole’s extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the *portable hole* or the creature carrying it. A breathing creature within a closed *portable hole* can survive for up to 10 minutes, after which time it begins to suffocate.
+ 
+
+
+---
+

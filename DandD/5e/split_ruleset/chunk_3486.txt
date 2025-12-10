@@ -1,0 +1,105 @@
+
+ ### Weapons List
+ 
+ ##### Simple Melee Weapons
+ 
+ | Name         | Cost | Damage          | Weight | Properties                            |
+ |--------------|------|-----------------|--------|---------------------------------------|
+ | Club         | 1 sp | 1d4 bludgeoning | 2 lb.  | Light                                 |
+ | Dagger       | 2 gp | 1d4 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)  |
+ | Greatclub    | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed                            |
+ | Handaxe      | 5 gp | 1d6 slashing    | 2 lb.  | Light, thrown (range 20/60)           |
+ | Javelin      | 5 sp | 1d6 piercing    | 2 lb.  | Thrown (range 30/120)                 |
+ | Light hammer | 2 gp | 1d4 bludgeoning | 2 lb.  | Light, thrown (range 20/60)           |
+ | Mace         | 5 gp | 1d6 bludgeoning | 4 lb.  | —                                     |
+ | Quarterstaff | 2 sp | 1d6 bludgeoning | 4 lb.  | Versatile (1d8)                       |
+ | Sickle       | 1 gp | 1d4 slashing    | 2 lb.  | Light                                 |
+ | Spear        | 1 gp | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
+ 
+ ##### Simple Ranged Weapons
+ 
+ | Name            | Cost  | Damage          | Weight  | Properties                                     |
+ |-----------------|-------|-----------------|---------|------------------------------------------------|
+ | Crossbow, light | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed |
+ | Dart            | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                  |
+ | Shortbow        | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed          |
+ | Sling           | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                      |
+ 
+ ##### Martial Melee Weapons
+ 
+ | Name        | Cost  | Damage          | Weight | Properties                            |
+ |-------------|-------|-----------------|--------|---------------------------------------|
+ | Battleaxe   | 10 gp | 1d8 slashing    | 4 lb.  | Versatile (1d10)                      |
+ | Flail       | 10 gp | 1d8 bludgeoning | 2 lb.  | —                                     |
+ | Glaive      | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
+ | Greataxe    | 30 gp | 1d12 slashing   | 7 lb.  | Heavy, two-handed                     |
+ | Greatsword  | 50 gp | 2d6 slashing    | 6 lb.  | Heavy, two-handed                     |
+ | Halberd     | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
+ | Lance       | 10 gp | 1d12 piercing   | 6 lb.  | Reach, special                        |
+ | Longsword   | 15 gp | 1d8 slashing    | 3 lb.  | Versatile (1d10)                      |
+ | Maul        | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                     |
+ | Morningstar | 15 gp | 1d8 piercing    | 4 lb.  | —                                     |
+ | Pike        | 5 gp  | 1d10 piercing   | 18 lb. | Heavy, reach, two-handed              |
+ | Rapier      | 25 gp | 1d8 piercing    | 2 lb.  | Finesse                               |
+ | Scimitar    | 25 gp | 1d6 slashing    | 3 lb.  | Finesse, light                        |
+ | Shortsword  | 10 gp | 1d6 piercing    | 2 lb.  | Finesse, light                        |
+ | Trident     | 5 gp  | 1d6 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d8) |
+ | War pick    | 5 gp  | 1d8 piercing    | 2 lb.  | —                                     |
+ | Warhammer   | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
+ | Whip        | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
+ 
+ ##### Martial Ranged Weapons
+ 
+ | Name            | Cost  | Damage        |  Weight | Properties                                             |
+ |-----------------|-------|---------------|---------|--------------------------------------------------------|
+ | Blowgun         | 10 gp | 1 piercing    |  1 lb.  | Ammunition (range 25/100), loading                     |
+ | Crossbow, hand  | 75 gp | 1d6 piercing  |  3 lb.  | Ammunition (range 30/120), light, loading              |
+ | Crossbow, heavy | 50 gp | 1d10 piercing |  18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
+ | Longbow         | 50 gp | 1d8 piercing  |  2 lb.  | Ammunition (range 150/600), heavy, two-handed          |
+ | Net             | 1 gp  | —             |  3 lb.  | Special, thrown (range 5/15)                           |
+ 
+ Adventuring Gear
+ ----------------
+ 
+ This section describes items that have special rules or require further explanation.
+ 
+ ***Acid.*** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+ 
+ ***Alchemist’s Fire.*** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+ 
+ ***Antitoxin.*** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+ 
+ ***Arcane Focus.*** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+ 
+ ***Ball Bearings.*** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
+ 
+ ***Block and Tackle.*** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+ 
+ ***Book.*** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
+ 
+ ***Caltrops.*** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+ 
+ ***Candle.*** For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+ 
+ ***Case, Crossbow Bolt.*** This wooden case can hold up to twenty crossbow bolts.
+ 
+ ***Case, Map or Scroll.*** This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
+ 
+ ***Chain.*** A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+ 
+ ***Climber’s Kit.*** A climber’s kit includes special pitons, boot tips, gloves, and a harness. You can use the climber’s kit as an action to anchor yourself; when you do, you can’t fall more than 25 feet from the point where you anchored yourself, and you can’t climb more than 25 feet away from that point without undoing the anchor.
+ 
+ ***Component Pouch.*** A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description).
+ ***Crowbar.*** Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
+ 
+ ***Druidic Focus.*** A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
+ 
+ ***Fishing Tackle.*** This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
+ Healer’s Kit. This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+ 
+ ***Holy Symbol.*** A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
+ 
+
+
+---
+

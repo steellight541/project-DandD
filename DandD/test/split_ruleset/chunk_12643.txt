@@ -1,0 +1,105 @@
+While wearing this hat, you can use an action to cast the *disguise self* spell from it at will. The spell ends if the hat is removed.
+ 
+ #### Headband of Intellect
+ 
+ *Wondrous item, uncommon (requires attunement)*
+ 
+ Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.
+ 
+ #### Helm of Brilliance
+ 
+ *Wondrous item, very rare (requires attunement)*
+ 
+ This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
+ 
+ You gain the following benefits while wearing it:
+ - You can use an action to cast one of the following spells (save DC 18), using one of the helm’s gems of the specified type as a component: *daylight* (opal), *fireball* (fire opal), *prismatic spray* (diamond), or *wall of fire* (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
+ - As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1d6 radiant damage.
+ - As long as the helm has at least one ruby, you have resistance to fire damage.
+ - As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra 1d6 fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.
+ 
+ Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
+ 
+ #### Helm of Comprehending Languages
+ 
+ *Wondrous item, uncommon*
+ 
+ While wearing this helm, you can use an action to cast the *comprehend languages* spell from it at will.
+ 
+ #### Helm of Telepathy
+ 
+ *Wondrous item, uncommon (requires attunement)*
+ 
+ While wearing this helm, you can use an action to cast the *detect thoughts* spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
+ 
+ While focusing on a creature with *detect thoughts*, you can use an action to cast the *suggestion* spell (save DC 13) from the helm on that creature. Once used, the *suggestion* property can’t be used again until the next dawn.
+ 
+ #### Helm of Teleportation
+ 
+ *Wondrous item, rare (requires attunement)*
+ 
+ This helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the *teleport* spell from it. The helm regains 1d3
+ 
+ expended charges daily at dawn.
+ 
+ #### Holy Avenger
+ 
+ *Weapon (any sword), legendary (requires attunement by a paladin)*
+ 
+ You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
+ 
+ While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
+ 
+ #### Horn of Blasting
+ 
+ *Wondrous item, rare*
+ 
+ You can use an action to speak the horn’s command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes 5d6 thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn’t deafened. Creatures and objects made of glass or crystal have disadvantage on the saving throw and take 10d6 thunder damage instead of 5d6.
+ 
+ Each use of the horn’s magic has a 20 percent chance of causing the horn to explode. The explosion deals 10d6 fire damage to the blower and destroys the horn.
+ 
+ #### Horn of Valhalla
+ 
+ *Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*
+ 
+ You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can’t be used again until 7 days have passed.
+ 
+ Four types of *horn of Valhalla* are known to exist, each made of a different metal. The horn’s type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn’s type or determines it randomly.
+ 
+ | d100   | Horn Type | Berserkers Summoned | Requirement                          |
+ |--------|-----------|---------------------|--------------------------------------|
+ | 01–40  | Silver    | 2d4 + 2             | None                                 |
+ | 41–75  | Brass     | 3d4 + 3             | Proficiency with all simple weapons  |
+ | 76–90  | Bronze    | 4d4 + 4             | Proficiency with all medium armor    |
+ | 91–00  | Iron      | 5d4 + 5             | Proficiency with all martial weapons |
+ 
+ If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
+ 
+ #### Horseshoes of a Zephyr
+ 
+ *Wondrous item, very rare*
+ 
+ These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.
+ 
+ #### Horseshoes of Speed
+ 
+ *Wondrous item, rare*
+ 
+ These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature’s walking speed by 30 feet.
+ 
+ #### Immovable Rod
+ 
+ *Rod, uncommon*
+ 
+ This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn’t move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.
+ 
+ #### Instant Fortress
+ 
+ *Wondrous item, rare*
+ 
+ You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
+ 
+
+
+---
+

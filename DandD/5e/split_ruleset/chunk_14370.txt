@@ -1,0 +1,105 @@
+#### Burrow
+ 
+ A monster that has a burrowing speed can use that speed to move through sand, earth, mud, or ice. A monster can’t burrow through solid rock unless it has a special trait that allows it to do so.
+ 
+ #### Climb
+ 
+ A monster that has a climbing speed can use all or part of its movement to move on vertical surfaces. The monster doesn’t need to spend extra movement to climb.
+ 
+ #### Fly
+ 
+ A monster that has a flying speed can use all or part of its movement to fly. Some monsters have the ability to **hover**, which makes them hard to knock out of the air (as explained in the rules on flying in the *Player’s Handbook*). Such a monster stops hovering when it dies.
+ 
+ #### Swim
+ 
+ A monster that has a swimming speed doesn’t need to spend extra movement to swim.
+ 
+ ### Ability Scores
+ 
+ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma) and corresponding modifiers. For more information on ability scores and how they’re used in play, see the *Player’s Handbook.*
+ 
+ ### Saving Throws
+ 
+ The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn’t easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don’t have special saving throw bonuses, in which case this section is absent.
+ 
+ A saving throw bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
+ 
+ #### Proficiency Bonus by Challenge Rating
+ 
+ 
+ | Challenge | Proficiency Bonus |
+ |-----------|-------------------|
+ | 0         | +2                |
+ | 1/8       | +2                |
+ | 1/4       | +2                |
+ | 1/2       | +2                |
+ | 1         | +2                |
+ | 2         | +2                |
+ | 3         | +2                |
+ | 4         | +2                |
+ | 5         | +3                |
+ | 6         | +3                |
+ | 7         | +3                |
+ | 8         | +3                |
+ | 9         | +4                |
+ | 10        | +4                |
+ | 11        | +4                |
+ | 12        | +4                |
+ | 13        | +5                |
+ | 14        | +5                |
+ | 15        | +5                |
+ | 16        | +5                |
+ | 17        | +6                |
+ | 18        | +6                |
+ | 19        | +6                |
+ | 20        | +6                |
+ | 21        | +7                |
+ | 22        | +7                |
+ | 23        | +7                |
+ | 24        | +7                |
+ | 25        | +8                |
+ | 26        | +8                |
+ | 27        | +8                |
+ | 28        | +8                |
+ | 29        | +9                |
+ | 30        | +9                |
+ 
+ ### Skills
+ 
+ The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
+ 
+ A skill bonus is the sum of a monster’s relevant ability modifier and its proficiency bonus, which is determined by the monster’s challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
+ 
+ ### Vulnerabilities, Resistances, and Immunities
+ 
+ Some creatures have vulnerability, resistance, or immunity to certain types of damage. Particular creatures are even resistant or immune to damage from nonmagical attacks (a magical attack is an attack delivered by a spell, a magic item, or another magical source). In addition, some creatures are immune to certain conditions.
+ 
+ ### Senses
+ 
+ The Senses entry notes a monster’s passive Wisdom (Perception) score, as well as any special senses the monster might have. Special senses are described below.
+ 
+ #### Blindsight
+ 
+ A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.
+ 
+ Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+ 
+ If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its blindsight defines the maximum range of its perception.
+ 
+ #### Darkvision
+ 
+ A monster with darkvision can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can’t discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+ 
+ ##### Armor, Weapon, and Tool Proficiencies
+ 
+ Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
+ 
+ For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
+ 
+ See the *Player’s Handbook* for rules on using armor or weapons without proficiency.
+ 
+ #### Tremorsense
+
+
+---
+

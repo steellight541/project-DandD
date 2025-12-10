@@ -1,0 +1,105 @@
+***Ring Mail.*** This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can’t afford better armor.
+ 
+ ***Chain Mail.*** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+ 
+ ***Splint.*** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+ 
+ ***Plate.*** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+ 
+ ### Armor List
+ 
+ ##### Light Armor
+ 
+ | Armor          | Cost  | Armor Class (AC) | Strength | Stealth      | Weight |
+ |-----------------|-------|-------------------|----------|--------------|--------|
+ | Padded          | 5 gp  | 11 + Dex modifier | —        | Disadvantage | 8 lb.  |
+ | Leather         | 10 gp | 11 + Dex modifier | —        | —            | 10 lb. |
+ | Studded leather | 45 gp | 12 + Dex modifier | —        | —            | 13 lb. |
+ 
+ ##### Medium Armor
+ 
+ | Armor      | Cost   | Armor Class (AC)         | Strength | Stealth      | Weight |
+ |-------------|--------|---------------------------|----------|--------------|--------|
+ | Hide        | 10 gp  | 12 + Dex modifier (max 2) | —        | —            | 12 lb. |
+ | Chain shirt | 50 gp  | 13 + Dex modifier (max 2) | —        | —            | 20 lb. |
+ | Scale mail  | 50 gp  | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. |
+ | Breastplate | 400 gp | 14 + Dex modifier (max 2) | —        | —            | 20 lb. |
+ | Half plate  | 750 gp | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. |
+ 
+ ##### Heavy Armor
+ 
+ | Armor     | Cost     | Armor Class (AC) | Strength | Stealth      | Weight |
+ |------------|----------|-------------------|----------|--------------|--------|
+ | Ring mail  | 30 gp    | 14                | —        | Disadvantage | 40 lb. |
+ | Chain mail | 75 gp    | 16                | Str 13   | Disadvantage | 55 lb. |
+ | Splint     | 200 gp   | 17                | Str 15   | Disadvantage | 60 lb. |
+ | Plate      | 1,500 gp | 18                | Str 15   | Disadvantage | 65 lb. |
+ 
+ ##### Shield
+ 
+ | Armor | Cost  | Armor Class (AC) | Strength | Stealth | Weight |
+ |--------|-------|-------------------|----------|---------|--------|
+ | Shield | 10 gp | +2                | —        | —       | 6 lb.  |
+ 
+ ### Getting Into and Out of Armor
+ 
+ The time it takes to don or doff armor depends on the armor’s category.
+ 
+ ***Don.*** This is the time it takes to put on armor. You benefit from the armor’s AC only if you take the full time to don the suit of armor.
+ 
+ ***Doff.*** This is the time it takes to take off armor. If you have help, reduce this time by half.
+ 
+ ##### Donning and Doffing Armor
+ 
+ | Category      | Don        | Doff      |
+ |---------------|------------|-----------|
+ | Light Armor  | 1 minute   | 1 minute  |
+ | Medium Armor | 5 minutes  | 1 minute  |
+ | Heavy Armor  | 10 minutes | 5 minutes |
+ | Shield        | 1 action   | 1 action  |
+ 
+ Weapons
+ -------
+ 
+ Your class grants proficiency in certain weapons, reflecting both the class’s focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
+ 
+ The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
+ 
+ ### Weapon Proficiency
+ 
+ Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+ 
+ Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+ 
+ ### Weapon Properties
+ 
+ Many weapons have special properties related to their use, as shown in the Weapons table.
+ 
+ ***Ammunition.*** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+ 
+ If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
+ 
+ ***Finesse.*** When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+ 
+ ***Heavy.*** Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon’s size and bulk make it too large for a Small creature to use effectively. Light. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+ 
+ ***Loading.*** Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+ 
+ ***Range.*** A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+ 
+ ***Reach.*** This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
+ 
+ ***Special.*** A weapon with the special property has unusual rules governing its use, explained in the weapon’s description (see “Special Weapons” later in this section).
+ 
+ ***Thrown.*** If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+ 
+ ***Two-Handed.*** This weapon requires two hands when you attack with it.
+ 
+ ***Versatile.*** This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+ 
+ #### Improvised Weapons
+ 
+
+
+---
+

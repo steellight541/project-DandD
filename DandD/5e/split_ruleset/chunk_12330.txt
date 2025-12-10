@@ -1,0 +1,105 @@
+| Brass  | Fire       |
+ | Bronze | Lightning  |
+ | Copper | Acid       |
+ | Gold   | Fire       |
+ | Green  | Poison     |
+ | Red    | Fire       |
+ | Silver | Cold       |
+ | White  | Cold       |
+ 
+ #### Dragon Slayer
+ 
+ *Weapon (any sword), rare*
+ 
+ You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+ 
+ When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon’s type. For the purpose of this weapon, “dragon” refers to any creature with the dragon type, including dragon turtles and wyverns.
+ 
+ #### Dust of Disappearance
+ 
+ *Wondrous item, uncommon*
+ 
+ Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature.
+ 
+ #### Dust of Dryness
+ 
+ *Wondrous item, uncommon*
+ 
+ This small packet contains 1d6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. The pellet’s weight is negligible.
+ 
+ Someone can use an action to smash the pellet against a hard surface, causing the pellet to shatter and release the water the dust absorbed. Doing so ends that pellet’s magic.
+ 
+ An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one.
+ 
+ #### Dust of Sneezing and Choking
+ 
+ *Wondrous item, uncommon*
+ 
+ Found in a small container, this powder resembles very fine sand. It appears to be *dust of disappearance*, and an *identify* spell reveals it to be such. There is enough of it for one use.
+ 
+ When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe, while sneezing uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns, ending the effect on it on a success. The *lesser restoration* spell can also end the effect on a creature.
+ 
+ #### Dwarven Plate
+ 
+ *Armor (plate), very rare*
+ 
+ While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.
+ 
+ #### Dwarven Thrower
+ 
+ *Weapon (warhammer), very rare (requires attunement by a dwarf)*
+ 
+ You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.
+ 
+ #### Efficient Quiver
+ 
+ *Wondrous item, uncommon*
+ 
+ Each of the quiver’s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+ 
+ You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
+ 
+ #### Efreeti Bottle
+ 
+ *Wondrous item, very rare*
+ 
+ This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.
+ 
+ The first time the bottle is opened, the GM rolls to determine what happens.
+ 
+ | d100   | Effect                                                                                                                                                                                                                                                                                                                                                 |
+ |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ | 01–10  | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.                                                                                                                                                                                                                                          |
+ | 11–90  | The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can’t be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
+ | 91–100 | The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.                                                                                                                                                                                                  |
+ 
+ #### Elemental Gem
+ 
+ *Wondrous item, uncommon*
+ 
+ This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *conjure elemental* spell, and the gem’s magic is lost. The type of gem determines the elemental summoned by the spell.
+ 
+ | Gem            | Summoned Elemental |
+ |----------------|--------------------|
+ | Blue sapphire  | Air elemental      |
+ | Yellow diamond | Earth elemental    |
+ | Red corundum   | Fire elemental     |
+ | Emerald        | Water elemental    |
+ 
+ #### Elven Chain
+ 
+ *Armor (chain shirt), rare*
+ 
+ You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.
+ 
+ #### Eversmoking Bottle
+ 
+ *Wondrous item, uncommon*
+ 
+ Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud’s area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 feet until it reaches its maximum radius of 120 feet.
+ 
+ The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.
+
+
+---
+

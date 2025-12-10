@@ -1,0 +1,105 @@
+**Casting Time:** 1 action
+ 
+ **Range:** 120 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+ 
+ #### Magic Mouth
+ 
+ *2nd-level illusion (ritual)*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
+ 
+ **Duration:** Until dispelled
+ 
+ You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn’t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
+ 
+ When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that the words appear to come from the object’s mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
+ 
+ The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
+ 
+ #### Magic Weapon
+ 
+ *2nd-level transmutation*
+ 
+ **Casting Time:** 1 bonus action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S
+ 
+ **Duration:** Concentration, up to 1 hour
+ 
+ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+ 
+ #### Magnificent Mansion
+ 
+ *7th-level conjuration*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 300 feet
+ 
+ **Components:** V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
+ 
+ **Duration:** 24 hours
+ 
+ You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.
+ 
+ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.
+ 
+ You can create any floor plan you like, but the space can’t exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can’t attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can’t leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
+ 
+ #### Major Image
+ 
+ *3rd-level illusion*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 120 feet
+ 
+ **Components:** V, S, M (a bit of fleece)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot that you can see within range and lasts for the duration. It seems completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can’t create sufficient heat or cold to cause damage, a sound loud enough to deal thunder damage or deafen a creature, or a smell that might sicken a creature (like a troglodyte’s stench).
+ 
+ As long as you are within range of the illusion, you can use your action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
+ 
+ Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled, without requiring your concentration.
+ 
+ #### Mass Cure Wounds
+ 
+ *5th-level evocation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
+ 
+ #### Mass Heal
+
+
+---
+

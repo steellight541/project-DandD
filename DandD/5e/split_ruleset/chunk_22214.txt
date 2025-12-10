@@ -1,0 +1,105 @@
+
+ **Speed** 10 ft., fly 40 ft.
+ 
+ | STR    | DEX     | CON     | INT    | WIS    | CHA    |
+ |--------|---------|---------|--------|--------|--------|
+ | 4 (−3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
+ 
+ **Senses** darkvision 60 ft., passive Perception 9
+ 
+ **Languages** —
+ 
+ **Challenge** 1/8 (25 XP)
+ 
+ **Actions**
+ 
+ ***Blood Drain.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn’t attack. Instead, at the start of each of the stirge’s turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
+ 
+ The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+ 
+ #### Succubus/Incubus
+ 
+ *Medium fiend (shapechanger), neutral evil*
+ 
+ **Armor Class** 15 (natural armor)
+ 
+ **Hit Points** 66 (12d8 + 12)
+ 
+ **Speed** 30 ft., fly 60 ft.
+ 
+ | STR    | DEX     | CON     | INT     | WIS     | CHA     |
+ |--------|---------|---------|---------|---------|---------|
+ | 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
+ 
+ **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+ 
+ **Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+ 
+ **Senses** darkvision 60 ft., passive Perception 15
+ 
+ **Languages** Abyssal, Common, Infernal, telepathy 60 ft.
+ 
+ **Challenge** 4 (1,100 XP)
+ 
+ ***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don’t even need to be on the same plane of existence.
+ 
+ ***Shapechanger.*** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+ 
+ **Actions**
+ 
+ ***Claw (Fiend Form Only).** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+ 
+ ***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend’s verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend’s Charm for the next 24 hours.
+ 
+ The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+ 
+ ***Draining Kiss.*** The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
+ 
+ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target’s hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+ 
+ ***Etherealness.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+ 
+ Monsters (T)
+ ------------
+ 
+ #### Tarrasque
+ 
+ *Gargantuan monstrosity (titan), unaligned*
+ 
+ **Armor Class** 25 (natural armor)
+ 
+ **Hit Points** 676 (33d20 + 330)
+ 
+ **Speed** 40 ft.
+ 
+ | STR      | DEX     | CON     | INT     | WIS     | CHA     |
+ |----------|---------|---------|---------|---------|---------|
+ | 30 (+10) | 11 (+0) | 30 (+10) | 3 (−4) | 11 (+0) | 11 (+0) |
+ 
+ **Saving Throws** Int +5, Wis +9, Cha +9
+ 
+ **Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+ 
+ **Condition Immunities** charmed, frightened, paralyzed, poisoned
+ 
+ **Senses** blindsight 120 ft., passive Perception 10
+ 
+ **Languages** —
+ 
+ **Challenge** 30 (155,000 XP)
+ 
+ ***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
+ 
+ ***Magic Resistance.*** The tarrasque has advantage on saving throws against spells and other magical effects.
+ 
+ ***Reflective Carapace.*** Any time the tarrasque is targeted by a
+ *magic missile* spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+ 
+ ***Siege Monster.*** The tarrasque deals double damage to objects and structures.
+ 
+ **Actions**
+ 
+
+
+---
+

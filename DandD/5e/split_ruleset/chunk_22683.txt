@@ -1,0 +1,105 @@
+***Shock.** Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage.
+ 
+ ***Invisibility.*** The will-o’-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+ 
+ #### Wraith
+ 
+ *Medium undead, neutral evil*
+ 
+ **Armor Class** 13
+ 
+ **Hit Points** 67 (9d8 + 27)
+ 
+ **Speed** 0 ft., fly 60 ft. (hover)
+ 
+ | STR    | DEX     | CON     | INT     | WIS     | CHA     |
+ |--------|---------|---------|---------|---------|---------|
+ | 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+ 
+ **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered
+ 
+ **Damage Immunities** necrotic, poison
+ 
+ **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+ 
+ **Senses** darkvision 60 ft., passive Perception 12
+ 
+ **Languages** the languages it knew in life
+ 
+ **Challenge** 5 (1,800 XP)
+ 
+ ***Incorporeal Movement.*** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+ 
+ ***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+ 
+ **Actions**
+ 
+ ***Life Drain.** Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+ 
+ ***Create Specter.*** The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target’s spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith’s control. The wraith can have no more than seven specters under its control at one time.
+ 
+ #### Wyvern
+ 
+ *Large dragon, unaligned*
+ 
+ **Armor Class** 13 (natural armor)
+ 
+ **Hit Points** 110 (13d10 + 39)
+ 
+ **Speed** 20 ft., fly 80 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA     |
+ |---------|---------|---------|--------|---------|---------|
+ | 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 12 (+1) | 6 (−2) |
+ 
+ **Skills** Perception +4
+ 
+ **Senses** darkvision 60 ft., passive Perception 14
+ 
+ **Languages** —
+ 
+ **Challenge** 6 (2,300 XP)
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+ 
+ ***Bite.** Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage.
+ 
+ ***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
+ 
+ ***Stinger.** Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+ 
+ Monsters (X)
+ ------------
+ 
+ #### Xorn
+ 
+ *Medium elemental, neutral*
+ 
+ **Armor Class** 19 (natural armor)
+ 
+ **Hit Points** 73 (7d8 + 42)
+ 
+ **Speed** 20 ft., burrow 20 ft.
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
+ 
+ **Skills** Perception +6, Stealth +3
+ 
+ **Damage Resistances** piercing and slashing from nonmagical attacks that aren’t adamantine
+ 
+ **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+ 
+ **Languages** Terran
+ 
+ **Challenge** 5 (1,800 XP)
+ 
+ ***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn’t disturb the material it moves through.
+ 
+
+
+---
+

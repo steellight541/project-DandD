@@ -1,0 +1,105 @@
+
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st.
+ 
+ #### Create Undead
+ 
+ *6th-level necromancy*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 10 feet
+ 
+ **Components:** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
+ 
+ **Duration:** Instantaneous
+ 
+ You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The GM has game statistics for these creatures.)
+ 
+ As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
+ 
+ The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
+ 
+ ***At Higher Levels.*** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
+ 
+ #### Creation
+ 
+ *5th-level illusion*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create)
+ 
+ **Duration:** Special
+ 
+ You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5- foot cube, and the object must be of a form and material that you have seen before.
+ 
+ The duration depends on the object’s material. If the object is composed of multiple materials, use the shortest duration.
+ 
+ | Material              | Duration   |
+ |-----------------------|------------|
+ | Vegetable matter      | 1 day      |
+ | Stone or crystal      | 12 hours   |
+ | Precious metals       | 1 hour     |
+ | Gems                  | 10 minutes |
+ | Adamantine or mithral | 1 minute   |
+ 
+ Using any material created by this spell as another spell’s material component causes that spell to fail.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
+ 
+ #### Cure Wounds
+ 
+ *1st-level evocation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+ 
+ #### Dancing Lights
+ 
+ *Evocation cantrip*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 120 feet
+ 
+ **Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)
+ 
+ **Duration:** Concentration, up to 1 minute
+ 
+ You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10- foot radius.
+ 
+ As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell’s range.
+ 
+ #### Darkness
+ 
+ *2nd-level evocation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 60 feet
+ 
+ **Components:** V, M (bat fur and a drop of pitch or piece of coal)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+ 
+ If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+ 
+ If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
+ 
+
+
+---
+

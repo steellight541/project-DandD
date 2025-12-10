@@ -1,0 +1,105 @@
+***Web Sense.*** While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.
+ 
+ ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws.
+ 
+ ***Bite.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+ 
+ ***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+ 
+ ***Web (Recharge 5–6).** Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+ 
+ #### Ettin
+ 
+ *Large giant, chaotic evil*
+ 
+ **Armor Class** 12 (natural armor)
+ 
+ **Hit Points** 85 (10d10 + 30)
+ 
+ **Speed** 40 ft.
+ 
+ | STR     | DEX    | CON     | INT    | WIS     | CHA    |
+ |---------|--------|---------|--------|---------|--------|
+ | 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
+ 
+ **Skills** Perception +4
+ 
+ **Senses** darkvision 60 ft., passive Perception 14
+ 
+ **Languages** Giant, Orc
+ 
+ **Challenge** 4 (1,100 XP)
+ 
+ ***Two Heads.*** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+ 
+ ***Wakeful.*** When one of the ettin’s heads is asleep, its other head is awake.
+ 
+ ***Actions***
+ 
+ ***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+ 
+ ***Battleaxe.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
+ 
+ ***Morningstar.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage.
+ 
+ Monsters (F)
+ ------------
+ 
+ #### Fungi
+ 
+ ##### Shrieker
+ 
+ *Medium plant, unaligned*
+ 
+ **Armor Class** 5
+ 
+ **Hit Points** 13 (3d8)
+ 
+ **Speed** 0 ft.
+ 
+ | STR    | DEX    | CON     | INT    | WIS    | CHA    |
+ |--------|--------|---------|--------|--------|--------|
+ | 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
+ 
+ **Condition Immunities** blinded, deafened, frightened
+ 
+ **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+ 
+ **Languages** —
+ 
+ **Challenge** 0 (10 XP)
+ 
+ ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
+ 
+ **Reactions**
+ 
+ ***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
+ 
+ ##### Violet Fungus
+ 
+ *Medium plant, unaligned*
+ 
+ **Armor Class** 5
+ 
+ **Hit Points** 18 (4d8)
+ 
+ **Speed** 5 ft.
+ 
+ | STR    | DEX    | CON     | INT    | WIS    | CHA    |
+ |--------|--------|---------|--------|--------|--------|
+ | 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
+ 
+ **Condition Immunities** blinded, deafened, frightened
+ 
+ **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+ 
+ **Languages** —
+ 
+
+
+---
+

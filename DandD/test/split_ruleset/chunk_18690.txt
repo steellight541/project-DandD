@@ -1,0 +1,105 @@
+
+ **Hit Points** 18 (4d8)
+ 
+ **Speed** 5 ft.
+ 
+ | STR    | DEX    | CON     | INT    | WIS    | CHA    |
+ |--------|--------|---------|--------|--------|--------|
+ | 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
+ 
+ **Condition Immunities** blinded, deafened, frightened
+ 
+ **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
+ 
+ **Languages** —
+ 
+ **Challenge** 1/4 (50 XP)
+ 
+ ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The fungus makes 1d4 Rotting Touch attacks.
+ 
+ ***Rotting Touch.** Melee Weapon Attack:* +2 to hit, reach 10 ft., one creature. *Hit:* 4 (1d8) necrotic damage.
+ 
+ 
+ Monsters (G)
+ ------------
+ 
+ #### Gargoyle
+ 
+ *Medium elemental, chaotic evil*
+ 
+ **Armor Class** 15 (natural armor)
+ 
+ **Hit Points** 52 (7d8 + 21)
+ 
+ **Speed** 30 ft., fly 60 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |
+ 
+ **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren’t adamantine
+ 
+ **Damage Immunities** poison
+ 
+ **Condition Immunities** exhaustion, petrified, poisoned
+ 
+ **Senses** darkvision 60 ft., passive Perception 10
+ 
+ **Languages** Terran
+ 
+ **Challenge** 2 (450 XP)
+ 
+ ***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws.
+ 
+ ***Bite.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+ 
+ ***Claws.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+ 
+ #### Genies
+ 
+ ##### Djinni
+ 
+ *Large elemental, chaotic good*
+ 
+ **Armor Class** 17 (natural armor)
+ 
+ **Hit Points** 161 (14d10 + 84)
+ 
+ **Speed** 30 ft., fly 90 ft.
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
+ 
+ **Saving Throws** Dex +6, Wis +7, Cha +9
+ 
+ **Damage Immunities** lightning, thunder
+ 
+ **Senses** darkvision 120 ft., passive Perception 13
+ 
+ **Languages** Auran
+ 
+ **Challenge** 11 (7,200 XP)
+ 
+ ***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
+ 
+ ***Innate Spellcasting.*** The djinni’s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+ 
+ At will: *detect evil and good*, *detect magic*, *thunderwave*
+ 3/day each: *create food and water* (can create wine instead of water), *tongues*, *wind walk*
+ 1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
+ 
+ **Actions**
+ 
+
+
+---
+

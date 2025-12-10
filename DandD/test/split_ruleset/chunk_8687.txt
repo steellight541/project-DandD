@@ -1,0 +1,105 @@
+
+ **Duration:** Instantaneous
+ 
+ Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
+ 
+ #### Locate Creature
+ 
+ *4th-level divination*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Self
+ 
+ **Components:** V, S, M (a bit of fur from a bloodhound)
+ 
+ **Duration:** Concentration, up to 1 hour
+ 
+ Describe or name a creature that is familiar to you. You sense the direction to the creature’s location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
+ 
+ The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as being under the effects of a *polymorph* spell, this spell doesn’t locate the creature.
+ 
+ This spell can’t locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
+ 
+ #### Locate Object
+ 
+ *2nd-level divination*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Self
+ 
+ **Components:** V, S, M (a forked twig)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ Describe or name an object that is familiar to you. You sense the direction to the object’s location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
+ 
+ The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
+ 
+ This spell can’t locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
+ 
+ #### Longstrider
+ 
+ *1st-level transmutation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (a pinch of dirt)
+ 
+ **Duration:** 1 hour
+ 
+ You touch a creature. The target’s speed increases by 10 feet until the spell ends.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+ 
+ #### Mage Armor
+ 
+ *1st-level abjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (a piece of cured leather)
+ 
+ **Duration:** 8 hours
+ 
+ You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+ 
+ #### Mage Hand
+ 
+ *Conjuration cantrip*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** 1 minute
+ 
+ A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+ 
+ You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+ 
+ The hand can’t attack, activate magic items, or carry more than 10 pounds.
+ 
+ #### Magic Circle
+ 
+ *3rd-level abjuration*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 10 feet
+ 
+ **Components:** V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
+ 
+ **Duration:** 1 hour
+ 
+
+
+---
+

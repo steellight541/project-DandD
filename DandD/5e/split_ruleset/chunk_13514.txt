@@ -1,0 +1,105 @@
+- Sack
+ 
+ In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
+ 
+ | d100   | Patch                                                                                                                                                                                             |
+ |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ | 01–08  | Bag of 100 gp                                                                                                                                                                                     |
+ | 09–15  | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp                                                                                                                                  |
+ | 16–22  | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
+ | 23–30  | 10 gems worth 100 gp each                                                                                                                                                                         |
+ | 31–44  | Wooden ladder (24 feet long) 45–51 A riding horse with saddle bags                                                                                                                                |
+ | 52–59  | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you                                                                                                           |
+ | 60–68  | 4 potions of healing                                                                                                                                                                              |
+ | 69–75  | Rowboat (12 feet long)                                                                                                                                                                            |
+ | 76–83  | Spell scroll containing one spell of 1st to 3rd level                                                                                                                                             |
+ | 84–90  | 2 mastiffs                                                                                                                                                                                        |
+ | 91–96  | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
+ | 97–100 | Portable ram                                                                                                                                                                                      |
+ 
+ #### Rod of Absorption
+ 
+ *Rod, very rare (requires attunement)*
+ 
+ While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell’s effect is canceled, and the spell’s energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can’t absorb more. If you are targeted by a spell that the rod can’t store, the rod has no effect on that spell.
+ 
+ When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
+ 
+ If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-level spell slot.
+ 
+ A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
+ 
+ #### Rod of Alertness
+ 
+ *Rod, very rare (requires attunement)*
+ 
+ This rod has a flanged head and the following properties.
+ 
+ ***Alertness.*** While holding the rod, you have advantage on Wisdom (Perception) checks and on rolls for initiative.
+ 
+ ***Spells.*** While holding the rod, you can use an action to cast one of the following spells from it: *detect evil and good*, *detect magic*, *detect poison and disease*, or *see invisibility.*
+ 
+ ***Protective Aura.*** As an action, you can plant the haft end of the rod in the ground, whereupon the rod’s head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to AC and saving throws and can sense the location of any invisible hostile creature that is also in the bright light.
+ 
+ The rod’s head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can’t be used again until the next dawn.
+ 
+ #### Rod of Lordly Might
+ 
+ *Rod, legendary (requires attunement)*
+ 
+ This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
+ 
+ ***Six Buttons.*** You can press one of the rod’s six buttons as a bonus action. A button’s effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
+ 
+ If you press **button 1**, the rod becomes a *flame tongue*, as a fiery blade sprouts from the end opposite the rod’s flanged head.
+ 
+ If you press **button 2**, the rod’s flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
+ 
+ If you press **button 3**, the rod’s flanged head folds down, a spear point springs from the rod’s tip, and the rod’s handle lengthens into a 6-foot haft, transforming the rod into a magic spear that grants a +3 bonus to attack and damage rolls made with it.
+ 
+ If you press **button 4**, the rod transforms into a climbing pole up to 50 feet long, as you specify. In surfaces as hard as granite, a spike at the bottom and three hooks at the top anchor the pole. Horizontal bars 3 inches long fold out from the sides, 1 foot apart, forming a ladder. The pole can bear up to 4,000 pounds. More weight or lack of solid anchoring causes the rod to revert to its normal form.
+ 
+ If you press **button 5**, the rod transforms into a handheld battering ram and grants its user a +10 bonus to Strength checks made to break through doors, barricades, and other barriers.
+ 
+ If you press **button 6**, the rod assumes or remains in its normal form and indicates magnetic north. (Nothing happens if this function of the rod is used in a location that has no magnetic north.) The rod also gives you knowledge of your approximate depth beneath the ground or your height above it.
+ 
+ ***Drain Life.*** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target takes an extra 4d6 necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can’t be used again until the next dawn.
+ 
+ ***Paralyze.*** When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can’t be used again until the next dawn.
+ 
+ ***Terrify.*** While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can’t be used again until the next dawn.
+ 
+ #### Rod of Rulership
+ 
+ *Rod, rare (requires attunement)*
+ 
+ You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can’t be used again until the next dawn.
+ 
+ #### Rod of Security
+ 
+ *Rod, very rare*
+ 
+ While holding this rod, you can use an action to activate it. The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden, lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. Everything else that can be interacted with inside the extraplanar space can exist only there. For example, a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.
+ 
+ For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don’t age while in the paradise, although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).
+ 
+ When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can’t be used again until ten days have passed.
+ 
+ #### Rope of Climbing
+ 
+ *Wondrous item, uncommon*
+ 
+ This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 10 feet on your turn when you first command it and 10 feet on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+ 
+ If you tell the rope to knot, large knots appear at 1- foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants advantage on checks made to climb it.
+ 
+ The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
+ 
+ #### Rope of Entanglement
+ 
+ *Wondrous item, rare*
+ 
+
+
+---
+

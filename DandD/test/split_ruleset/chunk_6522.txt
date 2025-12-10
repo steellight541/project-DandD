@@ -1,0 +1,105 @@
+A summoned creature disappears when it drops to 0 hit points or when the spell ends.
+ 
+ The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+ 
+ The GM has the creatures’ statistics.
+ 
+ ***At Higher Levels.*** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+ 
+ #### Contact Other Plane
+ 
+ *5th-level divination (ritual)*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** Self
+ 
+ **Components:** V
+ 
+ **Duration:** 1 minute
+ 
+ You mentally contact a demigod, the spirit of a long- dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can’t take actions, can’t understand what other creatures say, can’t read, and speak only in gibberish. A *greater restoration* spell cast on you ends this effect.
+ 
+ On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as “yes,” “no,” “maybe,” “never,” “irrelevant,” or “unclear” (if the entity doesn’t know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer.
+ 
+ #### Contagion
+ 
+ *5th-level necromancy*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Component:** V, S
+ 
+ **Duration:** 7 days
+ 
+ Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
+ 
+ At the end of each of the target’s turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease’s effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends.
+ 
+ Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease’s effects apply to it.
+ 
+ ***Blinding Sickness.*** Pain grips the creature’s mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.
+ 
+ ***Filth Fever.*** A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
+ 
+ ***Flesh Rot.*** The creature’s flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
+ 
+ ***Mindfire.*** The creature’s mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *confusion* spell during combat.
+ 
+ ***Seizure.*** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
+ 
+ ***Slimy Doom.*** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+ 
+ #### Contingency
+ 
+ *6th-level evocation*
+ 
+ **Casting Time:** 10 minutes
+ 
+ **Range:** Self
+ 
+ **Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
+ 
+ **Duration:** 10 days
+ 
+ Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell—called the contingent spell—as part of casting *contingency*, expending spell slots for both, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a *contingency* cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
+ 
+ The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then *contingency* ends.
+ 
+ The contingent spell takes effect only on you, even if it can normally target others. You can use only one *contingency* spell at a time. If you cast this spell again, the effect of another *contingency* spell on you ends. Also, *contingency* ends on you if its material component is ever not on your person.
+ 
+ #### Continual Flame
+ 
+ *2nd-level evocation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes)
+ 
+ **Duration:** Until dispelled
+ 
+ A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
+ 
+ #### Control Water
+ 
+ *4th-level transmutation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 300 feet
+ 
+ **Components:** V, S, M (a drop of water and a pinch of dust)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell. As an action on your turn, you can repeat the same effect or choose a different one.
+ 
+ ***Flood.*** You cause the water level of all standing water in the area to rise by as much as 20 feet. If the area includes a shore, the flooding water spills over onto dry land.
+
+
+---
+

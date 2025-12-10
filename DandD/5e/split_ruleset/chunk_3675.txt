@@ -1,0 +1,105 @@
+|     Totem                    | 1 gp     | —            |
+ |     Wooden staff             | 5 gp     | 4 lb.        |
+ |     Yew wand                 | 10 gp    | 1 lb.        |
+ | Fishing tackle               | 1 gp     | 4 lb.        |
+ | Flask or tankard             | 2 cp     | 1 lb.        |
+ | Grappling hook               | 2 gp     | 4 lb.        |
+ | Hammer                       | 1 gp     | 3 lb.        |
+ | Hammer, sledge               | 2 gp     | 10 lb.       |
+ | Healer’s kit                 | 5 gp     | 3 lb.        |
+ | *Holy symbol*                |          |              |
+ |     Amulet                   | 5 gp     | 1 lb.        |
+ |     Emblem                   | 5 gp     | —            |
+ |     Reliquary                | 5 gp     | 2 lb.        |
+ | Holy water (flask)           | 25 gp    | 1 lb.        |
+ | Hourglass                    | 25 gp    | 1 lb.        |
+ | Hunting trap                 | 5 gp     | 25 lb.       |
+ | Ink (1 ounce bottle)         | 10 gp    | —            |
+ | Ink pen                      | 2 cp     | —            |
+ | Jug or pitcher               | 2 cp     | 4 lb.        |
+ | Ladder (10-foot)             | 1 sp     | 25 lb.       |
+ | Lamp                         | 5 sp     | 1 lb.        |
+ | Lantern, bullseye            | 10 gp    | 2 lb.        |
+ | Lantern, hooded              | 5 gp     | 2 lb.        |
+ | Lock                         | 10 gp    | 1 lb.        |
+ | Magnifying glass             | 100 gp   | —            |
+ | Manacles                     | 2 gp     | 6 lb.        |
+ | Mess kit                     | 2 sp     | 1 lb.        |
+ | Mirror, steel                | 5 gp     | 1/2 lb.      |
+ | Oil (flask)                  | 1 sp     | 1 lb.        |
+ | Paper (one sheet)            | 2 sp     | —            |
+ | Parchment (one sheet)        | 1 sp     | —            |
+ | Perfume (vial)               | 5 gp     | —            |
+ | Pick, miner’s                | 2 gp     | 10 lb.       |
+ | Piton                        | 5 cp     | 1/4 lb.      |
+ | Poison, basic (vial)         | 100 gp   | —            |
+ | Pole (10-foot)               | 5 cp     | 7 lb.        |
+ | Pot, iron                    | 2 gp     | 10 lb.       |
+ | Potion of healing 5          | 0 gp     | 1/2 lb.      |
+ | Pouch                        | 5 sp     | 1 lb.        |
+ | Quiver                       | 1 gp     | 1 lb.        |
+ | Ram, portable                | 4 gp     | 35 lb.       |
+ | Rations (1 day)              | 5 sp     | 2 lb.        |
+ | Robes                        | 1 gp     | 4 lb.        |
+ | Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
+ | Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
+ | Sack                         | 1 cp     | 1/2 lb.      |
+ | Scale, merchant’s            | 5 gp     | 3 lb.        |
+ | Sealing wax                  | 5 sp     | —            |
+ | Shovel                       | 2 gp     | 5 lb.        |
+ | Signal whistle               | 5 cp     | —            |
+ | Signet ring                  | 5 gp     | —            |
+ | Soap                         | 2 cp     | —            |
+ | Spellbook                    | 50 gp    | 3 lb.        |
+ | Spikes, iron (10)            | 1 gp     | 5 lb.        |
+ | Spyglass                     | 1,000 gp | 1 lb.        |
+ | Tent, two-person             | 2 gp     | 20 lb.       |
+ | Tinderbox                    | 5 sp     | 1 lb.        |
+ | Torch                        | 1 cp     | 1 lb.        |
+ | Vial                         | 1 gp     | —            |
+ | Waterskin                    | 2 sp     | 5 lb. (full) |
+ | Whetstone                    | 1 cp     | 1 lb.        |
+ 
+ ##### Container Capacity
+ 
+ | Container        | Capacity                               |
+ |------------------|----------------------------------------|
+ | Backpack\*       | 1 cubic foot/30 pounds of gear         |
+ | Barrel           | 40 gallons liquid, 4 cubic feet solid  |
+ | Basket           | 2 cubic feet/40 pounds of gear         |
+ | Bottle           | 1½ pints liquid                        |
+ | Bucket           | 3 gallons liquid, 1/2 cubic foot solid |
+ | Chest            | 12 cubic feet/300 pounds of gear       |
+ | Flask or tankard | 1 pint liquid                          |
+ | Jug or pitcher   | 1 gallon liquid                        |
+ | Pot, iron        | 1 gallon liquid                        |
+ | Pouch            | 1/5 cubic foot/6 pounds of gear        |
+ | Sack             | 1 cubic foot/30 pounds of gear         |
+ | Vial             | 4 ounces liquid                        |
+ | Waterskin        | 4 pints liquid                         |
+ 
+ \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
+ 
+ ##### Equipment Packs
+ 
+ The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+ 
+ ***Burglar’s Pack (16 gp).*** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+ 
+ ***Diplomat’s Pack (39 gp).*** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+ 
+ ***Dungeoneer’s Pack (12 gp).*** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+ 
+ ***Entertainer’s Pack (40 gp).*** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+ 
+ ***Explorer’s Pack (10 gp).*** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+ 
+ ***Priest’s Pack (19 gp).*** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+ 
+ ***Scholar’s Pack (40 gp).*** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+ 
+ Tools
+
+
+---
+

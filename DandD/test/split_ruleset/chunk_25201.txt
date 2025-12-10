@@ -1,0 +1,105 @@
+
+ **Senses** blindsight 10 ft., passive Perception 10
+ 
+ **Languages** —
+ 
+ **Challenge** 1/8 (25 XP)
+ 
+ **Actions**
+ 
+ ***Bite.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+ 
+ #### Polar Bear
+ 
+ *Large beast, unaligned*
+ 
+ **Armor Class** 12 (natural armor)
+ 
+ **Hit Points** 42 (5d10 + 15)
+ 
+ **Speed** 40 ft., swim 30 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 20 (+5) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
+ 
+ **Skills** Perception +3
+ 
+ **Senses** passive Perception 13
+ 
+ **Languages** —
+ 
+ **Challenge** 2 (450 XP)
+ 
+ ***Keen Smell.*** The bear has advantage on Wisdom (Perception) checks that rely on smell.
+ 
+ ***Actions***
+ 
+ ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
+ 
+ ***Bite.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) piercing damage.
+ 
+ ***Claws.** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+ 
+ #### Pony
+ 
+ *Medium beast, unaligned*
+ 
+ **Armor Class** 10
+ 
+ **Hit Points** 11 (2d8 + 2)
+ 
+ **Speed** 40 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 11 (+0) | 7 (−2) |
+ 
+ **Senses** passive Perception 10
+ 
+ **Languages** —
+ 
+ **Challenge** 1/8 (25 XP)
+ 
+ ***Actions***
+ 
+ ***Hooves.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
+ 
+ #### Quipper
+ 
+ *Tiny beast, unaligned*
+ 
+ **Armor Class** 13
+ 
+ **Hit Points** 1 (1d4 − 1)
+ 
+ **Speed** 0 ft., swim 40 ft.
+ 
+ | STR    | DEX     | CON    | INT    | WIS    | CHA    |
+ |--------|---------|--------|--------|--------|--------|
+ | 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (-2) | 2 (−4) |
+ 
+ **Senses** darkvision 60 ft., passive Perception 8
+ 
+ **Languages** —
+ 
+ **Challenge** 0 (10 XP)
+ 
+ ***Blood Frenzy.*** The quipper has advantage on melee attack rolls against any creature that doesn’t have all its hit points.
+ 
+ ***Water Breathing.*** The quipper can breathe only underwater.
+ 
+ **Actions**
+ 
+ ***Bite.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+ 
+ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix.
+ 
+ #### Rat
+ 
+ *Tiny beast, unaligned*
+ 
+
+
+---
+

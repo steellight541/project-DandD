@@ -1,0 +1,105 @@
+
+ **Languages** —
+ 
+ **Challenge** 1/2 (100 XP)
+ 
+ ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
+ 
+ **Actions**
+ 
+ ***Bite.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can’t bite another target.
+ 
+ #### Death Dog
+ 
+ *Medium monstrosity, neutral evil*
+ 
+ **Armor Class** 12
+ 
+ **Hit Points** 39 (6d8 + 12)
+ 
+ **Speed** 40 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4) | 13 (+1) | 6 (−2) |
+ 
+ **Skills** Perception +5, Stealth +4
+ 
+ **Senses** darkvision 120 ft., passive Perception 15
+ 
+ **Languages** —
+ 
+ **Challenge** 1 (200 XP)
+ 
+ ***Two-Headed.*** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The dog makes two bite attacks.
+ 
+ ***Bite.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
+ 
+ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.
+ 
+ #### Deer
+ 
+ *Medium beast, unaligned*
+ 
+ **Armor Class** 13
+ 
+ **Hit Points** 4 (1d8)
+ 
+ **Speed** 50 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 11 (+0) | 16 (+3) | 11 (+0) | 2 (−4) | 14 (+2) | 5 (−3) |
+ 
+ **Senses** passive Perception 12
+ 
+ **Languages** —
+ 
+ **Challenge** 0 (10 XP)
+ 
+ **Actions**
+ 
+ ***Bite.** Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
+ 
+ #### Dire Wolf
+ 
+ *Large beast, unaligned*
+ 
+ **Armor Class** 14 (natural armor)
+ 
+ **Hit Points** 37 (5d10 + 10)
+ 
+ **Speed** 50 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 7 (−2) |
+ 
+ **Skills** Perception +3, Stealth +4
+ 
+ **Senses** passive Perception 13
+ 
+ **Languages** —
+ 
+ **Challenge** 1 (200 XP)
+ 
+ ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+ 
+ ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+ 
+ **Actions**
+ 
+ ***Bite.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+ 
+ #### Draft Horse
+ 
+ *Large beast, unaligned*
+ 
+
+
+---
+

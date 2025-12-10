@@ -1,0 +1,105 @@
+5th level (3 slots): *cloudkill*, *scrying*
+ 6th level (1 slot): *disintegrate*, *globe of invulnerability*
+ 7th level (1 slot): *finger of death*, *plane shift*
+ 8th level (1 slot): *dominate monster*, *power word stun*
+ 9th level (1 slot): *power word kill*
+ 
+ ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
+ 
+ **Actions**
+ 
+ ***Paralyzing Touch.** Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+ 
+ **Legendary Actions**
+ 
+ The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The lich regains spent legendary actions at the start of its turn.
+ 
+ **Cantrip.** The lich casts a cantrip.
+ 
+ **Paralyzing Touch (Costs 2 Actions).** The lich uses its Paralyzing Touch.
+ 
+ **Frightening Gaze (Costs 2 Actions).** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the lich’s gaze for the next 24 hours.
+ 
+ **Disrupt Life (Costs 3 Actions).** Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+ 
+ #### Lizardfolk
+ 
+ *Medium humanoid (lizardfolk), neutral*
+ 
+ **Armor Class** 15 (natural armor, shield)
+ 
+ **Hit Points** 22 (4d8 + 4)
+ 
+ **Speed** 30 ft., swim 30 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
+ 
+ **Skills** Perception +3, Stealth +4, Survival +5
+ 
+ **Senses** passive Perception 13
+ 
+ **Languages** Draconic
+ 
+ **Challenge** 1/2 (100 XP)
+ 
+ ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
+ 
+ **Actions**
+ 
+ ***Multiattack.*** The lizardfolk makes two melee attacks, each one with a different weapon.
+ 
+ ***Bite.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+ 
+ ***Heavy Club.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+ 
+ ***Javelin.** Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+ 
+ ***Spiked Shield.** Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+ 
+ #### Lycanthropes
+ 
+ ##### Werebear
+ 
+ *Medium humanoid (human, shapechanger), neutral good*
+ 
+ **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
+ 
+ **Hit Points** 135 (18d8 + 54)
+ 
+ **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
+ 
+ **Skills** Perception +7
+ 
+ **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+ 
+ **Senses** passive Perception 17
+ 
+ **Languages** Common (can’t speak in bear form)
+ 
+ **Challenge** 5 (1,800 XP)
+ 
+ ***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
+ 
+ ***Keen Smell.*** The werebear has advantage on Wisdom (Perception) checks that rely on smell.
+ 
+ ***Actions***
+ 
+ ***Multiattack.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
+ 
+ ***Bite (Bear or Hybrid Form Only).** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.
+ 
+ ***Claw (Bear or Hybrid Form Only).** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
+ 
+ ***Greataxe (Humanoid or Hybrid Form Only).** Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
+ 
+ ##### Wereboar
+
+
+---
+

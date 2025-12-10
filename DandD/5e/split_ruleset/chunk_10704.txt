@@ -1,0 +1,105 @@
+
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+ 
+ #### Time Stop
+ 
+ *9th-level transmutation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Self
+ 
+ **Components:** V
+ 
+ **Duration:** Instantaneous
+ 
+ You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.
+ 
+ This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
+ 
+ #### Tiny Hut
+ 
+ *3rd-level evocation (ritual)*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** Self (10-foot-radius hemisphere)
+ 
+ **Components:** V, S, M (a small crystal bead)
+ 
+ **Duration:** 8 hours
+ 
+ A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area.
+ 
+ Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
+ 
+ Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.
+ 
+ #### Tongues
+ 
+ *3rd-level divination*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, M (a small clay model of a ziggurat)
+ 
+ **Duration:** 1 hour
+ 
+ This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
+ 
+ #### Transport via Plants
+ 
+ *6th-level conjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 10 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** 1 round
+ 
+ This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+ 
+ #### Tree Stride
+ 
+ *5th-level conjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Self
+ 
+ **Components:** V, S
+ 
+ **Duration:** Concentration, up to 1 minute
+ 
+ You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you’re in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
+ 
+ You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
+ 
+ #### True Polymorph
+ 
+ *9th-level transmutation*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
+ 
+ **Duration:** Concentration, up to 1 hour
+ 
+ Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.
+ 
+ This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn’t affected by this spell.
+ 
+ ***Creature into Creature.*** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target’s (or its level, if the target doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.
+ 
+ The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious.
+ 
+
+
+---
+

@@ -1,0 +1,105 @@
+**Hit Points** 67 (9d8 + 27)
+ 
+ **Speed** 30 ft.
+ 
+ | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+ |---------|---------|---------|--------|---------|--------|
+ | 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1) | 11 (+0) | 9 (−1) |
+ 
+ **Senses** passive Perception 10
+ 
+ **Languages** any one language (usually Common)
+ 
+ **Challenge** 2 (450 XP)
+ 
+ ***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+ 
+ **Actions**
+ 
+ ***Greataxe.** Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
+ 
+ Hailing from uncivilized lands, unpredictable **berserkers** come together in war parties and seek conflict wherever they can find it.
+ 
+ ### Commoner
+ 
+ *Medium humanoid (any race), any alignment*
+ 
+ **Armor Class** 10
+ 
+ **Hit Points** 4 (1d8)
+ 
+ **Speed** 30 ft.
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+ 
+ **Senses** passive Perception 10
+ 
+ **Languages** any one language (usually Common)
+ 
+ **Challenge** 0 (10 XP)
+ 
+ **Actions**
+ 
+ ***Club.** Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+ 
+ **Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
+ 
+ ### Cultist
+ 
+ *Medium humanoid (any race), any non-good alignment*
+ 
+ **Armor Class** 12 (leather armor)
+ 
+ **Hit Points** 9 (2d8)
+ 
+ **Speed** 30 ft.
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
+ 
+ **Skills** Deception +2, Religion +2
+ 
+ **Senses** passive Perception 10
+ 
+ **Languages** any one language (usually Common)
+ 
+ **Challenge** 1/8 (25 XP)
+ 
+ ***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.
+ 
+ **Actions**
+ 
+ ***Scimitar.** Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) slashing damage.
+ 
+ **Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
+ 
+ ### Cult Fanatic
+ 
+ *Medium humanoid (any race), any non-good alignment*
+ 
+ **Armor Class** 13 (leather armor)
+ 
+ **Hit Points** 33 (6d8 + 6)
+ 
+ **Speed** 30 ft.
+ 
+ | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+ |---------|---------|---------|---------|---------|---------|
+ | 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
+ 
+ **Skills** Deception +4, Persuasion +4, Religion +2
+ 
+ **Senses** passive Perception 11
+ 
+ **Languages** any one language (usually Common)
+ 
+ **Challenge** 2 (450 XP)
+ 
+ ***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.
+
+
+---
+

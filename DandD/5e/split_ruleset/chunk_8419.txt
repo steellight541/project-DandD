@@ -1,0 +1,105 @@
+
+ *9th-level abjuration*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** 30 feet
+ 
+ **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
+ 
+ **Duration:** Until dispelled
+ 
+ You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn’t need to breathe, eat, or drink, and it doesn’t age. Divination spells can’t locate or perceive the target.
+ 
+ When you cast the spell, you choose one of the following forms of imprisonment.
+ 
+ ***Burial.*** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it.
+ 
+ The special component for this version of the spell is a small mithral orb.
+ 
+ ***Chaining.*** Heavy chains, firmly rooted in the ground, hold the target in place. The target is restrained until the spell ends, and it can’t move or be moved by any means until then.
+ 
+ The special component for this version of the spell is a fine chain of precious metal.
+ 
+ ***Hedged Prison.*** The spell transports the target into a tiny demiplane that is warded against teleportation and planar travel. The demiplane can be a labyrinth, a cage, a tower, or any similar confined structure or area of your choice.
+ 
+ The special component for this version of the spell is a miniature representation of the prison made from jade.
+ 
+ ***Minimus Containment.*** The target shrinks to a height of 1 inch and is imprisoned inside a gemstone or similar object. Light can pass through the gemstone normally (allowing the target to see out and other creatures to see in), but nothing else can pass through, even by means of teleportation or planar travel. The gemstone can’t be cut or broken while the spell remains in effect.
+ 
+ The special component for this version of the spell is a large, transparent gemstone, such as a corundum, diamond, or ruby.
+ 
+ ***Slumber.*** The target falls asleep and can’t be awoken. The special component for this version of the spell consists of rare soporific herbs.
+ 
+ ***Ending the Spell.*** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
+ 
+ A *dispel magic* spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
+ 
+ You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.
+ 
+ #### Incendiary Cloud
+ 
+ *8th-level conjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 150 feet
+ 
+ **Components:** V, S
+ 
+ **Duration:** Concentration, up to 1 minute
+ 
+ A swirling cloud of smoke shot through with white- hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+ 
+ When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
+ 
+ The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns.
+ 
+ #### Inflict Wounds
+ 
+ *1st-level necromancy*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S
+ 
+ **Duration:** Instantaneous
+ 
+ Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+ 
+ #### Insect Plague
+ 
+ *5th-level conjuration*
+ 
+ **Casting Time:** 1 action
+ 
+ **Range:** 300 feet
+ 
+ **Components:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)
+ 
+ **Duration:** Concentration, up to 10 minutes
+ 
+ Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere’s area is difficult terrain.
+ 
+ When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell’s area for the first time on a turn or ends its turn there.
+ 
+ ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
+ 
+ #### Instant Summons
+ 
+ *6th-level conjuration (ritual)*
+ 
+ **Casting Time:** 1 minute
+ 
+ **Range:** Touch
+ 
+ **Components:** V, S, M (a sapphire worth 1,000 gp)
+ 
+
+
+---
+

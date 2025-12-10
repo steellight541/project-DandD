@@ -1,0 +1,105 @@
+
+ ##### Oath of Devotion Spells
+ 
+ | Level | Paladin Spells                           |
+ |-------|------------------------------------------|
+ | 3rd   | protection from evil and good, sanctuary |
+ | 5th   | lesser restoration, zone of truth        |
+ | 9th   | beacon of hope, dispel magic             |
+ | 13th  | freedom of movement, guardian of faith   |
+ | 17th  | commune, flame strike                    |
+ 
+ #### Channel Divinity
+ 
+ When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+ 
+ ***Sacred Weapon.*** As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+ 
+ You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+ 
+ ***Turn the Unholy.*** As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+ 
+ A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you. It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action.
+ 
+ #### Aura of Devotion
+ 
+ Starting at 7th level, you and friendly creatures within 10 feet of you can’t be charmed while you are conscious.
+ 
+ At 18th level, the range of this aura increases to 30 feet.
+ 
+ #### Purity of Spirit
+ 
+ Beginning at 15th level, you are always under the effects of a *protection from evil and good* spell.
+ 
+ #### Holy Nimbus
+ 
+ At 20th level, as an action, you can emanate an aura of sunlight. For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
+ 
+ Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
+ 
+ In addition, for the duration, you have advantage on saving throws against spells cast by fiends or undead.
+ 
+ Once you use this feature, you can’t use it again until you finish a long rest.
+ 
+ ### Breaking Your Oath
+ 
+ A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
+ 
+ A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+ 
+ If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM’s discretion, an impenitent paladin might be forced to abandon this class and adopt another.
+ 
+ Ranger
+ ======
+ 
+ Class Features
+ --------------
+ 
+ As a ranger, you gain the following class features.
+ 
+ #### Hit Points
+ 
+ **Hit Dice:** 1d10 per ranger level
+ 
+ **Hit Points at 1st Level:** 10 + your Constitution modifier
+ 
+ **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ranger level after 1st
+ 
+ #### Proficiencies
+ 
+ **Armor:** Light armor, medium armor, shields
+ 
+ **Weapons:** Simple weapons, martial weapons
+ 
+ **Tools:** None
+ 
+ **Saving Throws:** Strength, Dexterity
+ 
+ **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+ 
+ #### Equipment
+ 
+ You start with the following equipment, in addition to the equipment granted by your background:
+ - (*a*) scale mail or (*b*) leather armor
+ - (*a*) two shortswords or (*b*) two simple melee weapons
+ - (*a*) a dungeoneer’s pack or (*b*) an explorer’s pack
+ - A longbow and a quiver of 20 arrows
+ 
+ #### The Ranger
+ 
+ | Level | Proficiency Bonus | Features                                          | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+ |-------|-------------------|---------------------------------------------------|--------------|-----|-----|-----|-----|-----|
+ | 1st   | +2                | Favored Enemy, Natural Explorer                   | -            | -   | -   | -   | -   | -   |
+ | 2nd   | +2                | Fighting Style, Spellcasting                      | 2            | 2   | -   | -   | -   | -   |
+ | 3rd   | +2                | Ranger Archetype, Primeval Awareness              | 3            | 3   | -   | -   | -   | -   |
+ | 4th   | +2                | Ability Score Improvement                         | 3            | 3   | -   | -   | -   | -   |
+ | 5th   | +3                | Extra Attack                                      | 4            | 4   | 2   | -   | -   | -   |
+ | 6th   | +3                | Favored Enemy and Natural Explorer improvements   | 4            | 4   | 2   | -   | -   | -   |
+ | 7th   | +3                | Ranger Archetype feature                          | 5            | 4   | 3   | -   | -   | -   |
+ | 8th   | +3                | Ability Score Improvement, Land’s Stride          | 5            | 4   | 3   | -   | -   | -   |
+ | 9th   | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
+ | 10th  | +4                | Natural Explorer improvement, Hide in Plain Sight | 6            | 4   | 3   | 2   | -   | -   |
+
+
+---
+

@@ -1,0 +1,105 @@
+
+ ***Hit.*** Any damage dealt or other effects that occur as a result of an attack hitting a target are described after the “*Hit*” notation. You have the option of taking average damage or rolling the damage; for this reason, both the average damage and the die expression are presented.
+ 
+ ***Miss.*** If an attack has an effect that occurs on a miss, that information is presented after the “*Miss:*” notation.
+ 
+ #### Multiattack
+ 
+ A creature that can make multiple attacks on its turn has the Multiattack action. A creature can’t use Multiattack when making an opportunity attack, which must be a single melee attack.
+ 
+ #### Ammunition
+ 
+ A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has 2d4 pieces of ammunition for a thrown weapon attack, and 2d10 pieces of ammunition for a projectile weapon such as a bow or crossbow.
+ 
+ ### Reactions
+ 
+ If a monster can do something special with its reaction, that information is contained here. If a creature has no special reaction, this section is absent.
+ 
+ ### Limited Usage
+ 
+ Some special abilities have restrictions on the number of times they can be used.
+ 
+ ***X/Day.*** The notation “X/Day” means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, “1/Day” means a special ability can be used once and that the monster must finish a long rest to use it again.
+ 
+ ***Recharge X–Y.*** The notation “Recharge X–Y” means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster’s turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
+ 
+ For example, “Recharge 5–6” means a monster can use the special ability once. Then, at the start of the monster’s turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
+ 
+ ***Recharge after a Short or Long Rest.*** This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+ 
+ ##### Grapple Rules for Monsters
+ 
+ Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn’t need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
+ 
+ A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster’s stat block. If no escape DC is given, assume the DC is 10 + the monster’s Strength (Athletics) modifier.
+ 
+ ### Equipment
+ 
+ A stat block rarely refers to equipment, other than armor or weapons used by a monster. A creature that customarily wears clothes, such as a humanoid, is assumed to be dressed appropriately.
+ 
+ You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster’s equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
+ 
+ If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+ 
+ Legendary Creatures
+ -------------------
+ 
+ A legendary creature can do things that ordinary creatures can’t. It can take special actions outside its turn, and it might exert magical influence for miles around.
+ 
+ If a creature assumes the form of a legendary creature, such as through a spell, it doesn’t gain that form’s legendary actions, lair actions, or regional effects.
+ 
+ ### Legendary Actions
+ 
+ A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature’s turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can’t use them while incapacitated or otherwise unable to take actions. If surprised, it can’t use them until after its first turn in the combat.
+ 
+ ### A Legendary Creature’s Lair
+ 
+ A legendary creature might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a legendary creature that spends a great deal of time in its lair.
+ 
+ #### Lair Actions
+ 
+ If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can’t do so while incapacitated or otherwise unable to take actions. If surprised, it can’t use one until after its first turn in the combat.
+ 
+ #### Regional Effects
+ 
+ The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+ 
+ Monsters (A)
+ ------------
+ 
+ #### Aboleth
+ 
+ *Large aberration, lawful evil*
+ 
+ **Armor Class** 17 (natural armor)
+ 
+ **Hit Points** 135 (18d10 + 36)
+ 
+ **Speed** 10 ft., swim 40 ft.
+ 
+ | STR     | DEX    | CON     | INT     | WIS     | CHA     |
+ |---------|--------|---------|---------|---------|---------|
+ | 21 (+5) | 9 (−1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
+ 
+ **Saving Throws** Con +6, Int +8, Wis +6
+ 
+ **Skills** History +12, Perception +10
+ 
+ **Senses** darkvision 120 ft., passive Perception 20
+ 
+ **Languages** Deep Speech, telepathy 120 ft.
+ 
+ **Challenge** 10 (5,900 XP)
+ 
+ ***Amphibious.*** The aboleth can breathe air and water.
+ 
+ ***Mucous Cloud.*** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.
+ 
+ ***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature’s greatest desires if the aboleth can see the creature.
+ 
+ ***Actions***
+ 
+
+
+---
+

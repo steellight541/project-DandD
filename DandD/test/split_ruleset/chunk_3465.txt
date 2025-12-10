@@ -1,0 +1,105 @@
+#### Improvised Weapons
+ 
+ Sometimes characters don’t have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
+ 
+ Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM’s option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+ 
+ An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+ 
+ #### Silvered Weapons
+ 
+ Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+ 
+ #### Special Weapons
+ 
+ Weapons with special rules are described here.
+ 
+ ***Lance.*** You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
+ 
+ ***Net.*** A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+ 
+ When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
+ 
+ ### Weapons List
+ 
+ ##### Simple Melee Weapons
+ 
+ | Name         | Cost | Damage          | Weight | Properties                            |
+ |--------------|------|-----------------|--------|---------------------------------------|
+ | Club         | 1 sp | 1d4 bludgeoning | 2 lb.  | Light                                 |
+ | Dagger       | 2 gp | 1d4 piercing    | 1 lb.  | Finesse, light, thrown (range 20/60)  |
+ | Greatclub    | 2 sp | 1d8 bludgeoning | 10 lb. | Two-handed                            |
+ | Handaxe      | 5 gp | 1d6 slashing    | 2 lb.  | Light, thrown (range 20/60)           |
+ | Javelin      | 5 sp | 1d6 piercing    | 2 lb.  | Thrown (range 30/120)                 |
+ | Light hammer | 2 gp | 1d4 bludgeoning | 2 lb.  | Light, thrown (range 20/60)           |
+ | Mace         | 5 gp | 1d6 bludgeoning | 4 lb.  | —                                     |
+ | Quarterstaff | 2 sp | 1d6 bludgeoning | 4 lb.  | Versatile (1d8)                       |
+ | Sickle       | 1 gp | 1d4 slashing    | 2 lb.  | Light                                 |
+ | Spear        | 1 gp | 1d6 piercing    | 3 lb.  | Thrown (range 20/60), versatile (1d8) |
+ 
+ ##### Simple Ranged Weapons
+ 
+ | Name            | Cost  | Damage          | Weight  | Properties                                     |
+ |-----------------|-------|-----------------|---------|------------------------------------------------|
+ | Crossbow, light | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed |
+ | Dart            | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                  |
+ | Shortbow        | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed          |
+ | Sling           | 1 sp  | 1d4 bludgeoning | —       | Ammunition (range 30/120)                      |
+ 
+ ##### Martial Melee Weapons
+ 
+ | Name        | Cost  | Damage          | Weight | Properties                            |
+ |-------------|-------|-----------------|--------|---------------------------------------|
+ | Battleaxe   | 10 gp | 1d8 slashing    | 4 lb.  | Versatile (1d10)                      |
+ | Flail       | 10 gp | 1d8 bludgeoning | 2 lb.  | —                                     |
+ | Glaive      | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
+ | Greataxe    | 30 gp | 1d12 slashing   | 7 lb.  | Heavy, two-handed                     |
+ | Greatsword  | 50 gp | 2d6 slashing    | 6 lb.  | Heavy, two-handed                     |
+ | Halberd     | 20 gp | 1d10 slashing   | 6 lb.  | Heavy, reach, two-handed              |
+ | Lance       | 10 gp | 1d12 piercing   | 6 lb.  | Reach, special                        |
+ | Longsword   | 15 gp | 1d8 slashing    | 3 lb.  | Versatile (1d10)                      |
+ | Maul        | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed                     |
+ | Morningstar | 15 gp | 1d8 piercing    | 4 lb.  | —                                     |
+ | Pike        | 5 gp  | 1d10 piercing   | 18 lb. | Heavy, reach, two-handed              |
+ | Rapier      | 25 gp | 1d8 piercing    | 2 lb.  | Finesse                               |
+ | Scimitar    | 25 gp | 1d6 slashing    | 3 lb.  | Finesse, light                        |
+ | Shortsword  | 10 gp | 1d6 piercing    | 2 lb.  | Finesse, light                        |
+ | Trident     | 5 gp  | 1d6 piercing    | 4 lb.  | Thrown (range 20/60), versatile (1d8) |
+ | War pick    | 5 gp  | 1d8 piercing    | 2 lb.  | —                                     |
+ | Warhammer   | 15 gp | 1d8 bludgeoning | 2 lb.  | Versatile (1d10)                      |
+ | Whip        | 2 gp  | 1d4 slashing    | 3 lb.  | Finesse, reach                        |
+ 
+ ##### Martial Ranged Weapons
+ 
+ | Name            | Cost  | Damage        |  Weight | Properties                                             |
+ |-----------------|-------|---------------|---------|--------------------------------------------------------|
+ | Blowgun         | 10 gp | 1 piercing    |  1 lb.  | Ammunition (range 25/100), loading                     |
+ | Crossbow, hand  | 75 gp | 1d6 piercing  |  3 lb.  | Ammunition (range 30/120), light, loading              |
+ | Crossbow, heavy | 50 gp | 1d10 piercing |  18 lb. | Ammunition (range 100/400), heavy, loading, two-handed |
+ | Longbow         | 50 gp | 1d8 piercing  |  2 lb.  | Ammunition (range 150/600), heavy, two-handed          |
+ | Net             | 1 gp  | —             |  3 lb.  | Special, thrown (range 5/15)                           |
+ 
+ Adventuring Gear
+ ----------------
+ 
+ This section describes items that have special rules or require further explanation.
+ 
+ ***Acid.*** As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+ 
+ ***Alchemist’s Fire.*** This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+ 
+ ***Antitoxin.*** A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
+ 
+ ***Arcane Focus.*** An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item— designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
+ 
+ ***Ball Bearings.*** As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn’t need to make the save.
+ 
+ ***Block and Tackle.*** A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
+ 
+ ***Book.*** A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
+ 
+ ***Caltrops.*** As an action, you can spread a bag of caltrops to cover a square area that is 5 feet on a side. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving this turn and take 1 piercing damage. Taking this damage reduces the creature’s walking speed by 10 feet until the creature regains at least 1 hit point. A creature moving through the area at half speed doesn’t need to make the save.
+
+
+---
+
