@@ -479,37 +479,6 @@ app = gr.mount_gradio_app(app, demo, path="/gradio_mounted")
 if __name__ == "__main__":
     print("Ensuring default project structure exists and populating dummy data...")
     os.environ["EMBEDDED_OLLAMA_MODEL"] = "nomic-embed-text" 
-    
-    # Create the full path for testing
-    for p, v in [("DandD", "version1"), ("DandD", "versionX"), ("test", "version_a")]:
-        storage_path = PROJECT_ROOT / p / v / "rag_storage"
-        storage_path.mkdir(parents=True, exist_ok=True)
-        
-        vector_store_path = storage_path / "vector_store"
-        vector_store_path.mkdir(parents=True, exist_ok=True)
-
-        # Create dummy .jsonl and .npy files for the simulation to work
-        
-        # Dummy .jsonl (meta data)
-        dummy_meta_file = storage_path / "meta_0.jsonl"
-        with open(dummy_meta_file, 'w') as f:
-            dummy_source_path = Path(f"./{p}/{v}/source_data.txt")
-            # Write relative path for meta data source
-            f.write(json.dumps({"source_path": str(dummy_source_path), "text_start": 0, "text_end": 500}) + "\n")
-        
-        # Dummy .npy vector file
-        dummy_vec_file = vector_store_path / "vec_0.npy"
-        dummy_vectors = np.random.rand(1, 1024).astype(np.float32)
-        np.save(dummy_vec_file, dummy_vectors)
-        
-        # Create the dummy source text file the metadata points to
-        dummy_source_file = PROJECT_ROOT / p / v / "source_data.txt"
-        dummy_source_file.parent.mkdir(parents=True, exist_ok=True)
-        with open(dummy_source_file, 'w') as f:
-            f.write(f"This is the source document for project {p}, version {v}. It contains key information about data retention and Cleric spell slots, which should be retrieved when queried.\n\n")
-            f.write(f"Clerics are divine spellcasters who gain their power from a god or faith. Their spellcasting modifier is Wisdom.")
-
-
     config = uvicorn.Config(app, host="0.0.0.0", port=80)
     server = uvicorn.Server(config)
     server.run()
