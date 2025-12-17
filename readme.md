@@ -20,3 +20,6 @@ i have 2 ideas for the project; first one is a DnD master where i make a program
 pip install torch --index-url https://download.pytorch.org/whl/cu124
 pip install lightrag-hku
 ```
+
+# final
+[read final product](./product.md)
