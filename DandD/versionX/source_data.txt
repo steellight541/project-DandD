@@ -1,0 +1,3 @@
+This is the source document for project DandD, version versionX. It contains key information about data retention and Cleric spell slots, which should be retrieved when queried.
+
+Clerics are divine spellcasters who gain their power from a god or faith. Their spellcasting modifier is Wisdom.

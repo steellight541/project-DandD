@@ -1,0 +1,13 @@
+2025-12-17 09:24:25,575 - lightrag - INFO - [_] Created new empty graph file: ./DandD/5e/rag_storage/graph_chunk_entity_relation.graphml
+2025-12-17 09:24:25,575 - lightrag - INFO - [_] Process 3166660 KV load full_docs with 0 records
+2025-12-17 09:24:25,575 - lightrag - INFO - [_] Process 3166660 KV load text_chunks with 0 records
+2025-12-17 09:24:25,575 - lightrag - INFO - [_] Process 3166660 KV load full_entities with 0 records
+2025-12-17 09:24:25,576 - lightrag - INFO - [_] Process 3166660 KV load full_relations with 0 records
+2025-12-17 09:24:25,576 - lightrag - INFO - [_] Process 3166660 KV load entity_chunks with 0 records
+2025-12-17 09:24:25,576 - lightrag - INFO - [_] Process 3166660 KV load relation_chunks with 0 records
+2025-12-17 09:24:25,576 - lightrag - INFO - [_] Process 3166660 KV load llm_response_cache with 0 records
+2025-12-17 09:24:25,576 - lightrag - INFO - [_] Process 3166660 doc status load doc_status with 0 records
+2025-12-17 09:24:25,577 - lightrag - INFO - LLM func: 4 new workers initialized (Timeouts: Func: 180s, Worker: 360s, Health Check: 375s)
+2025-12-17 09:24:25,577 - lightrag - ERROR - LLM func: Error in decorated function for task 138067827865056_3691323.441412772: 'OPENAI_API_KEY'
+2025-12-17 09:24:25,577 - lightrag - ERROR - Query failed: 'OPENAI_API_KEY'
+2025-12-17 09:24:25,577 - lightrag - INFO - Successfully finalized 12 storages
